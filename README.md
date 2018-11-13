@@ -138,23 +138,3 @@ After installition, just add `?_compact` or `?_detailed` as GET parameter at the
 * [Issues](https://github.com/ogulcan/filter-wp-api/issues)
 * [Changelog](https://github.com/ogulcan/filter-wp-api/blob/master/CHANGELOG.md)
 
-#### License
-
-All code found in this repository is licensed under GPL v3
-[source]
-----
-    Copyright (C) 2017 Ogulcan Orhan
-
-    Filter WP Api is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    Filter WP Api is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-----
